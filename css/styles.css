@@ -329,6 +329,11 @@ a.dotted {border-style: dotted;}
 	border-radius: 0px 0px 50px 50px;
 }
 
+.image_footer a{
+	font-size: 35px;
+	color: #ffffff;
+}
+
 .image_footer_text{
 	vertical-align: top;
 	padding:40px 0px 0px 0px;
